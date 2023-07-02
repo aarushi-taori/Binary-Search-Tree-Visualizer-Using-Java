@@ -32,10 +32,10 @@ Upon running the program, the BST Visualizer window will appear, allowing you to
 
 The BST Visualizer renders the BST as a graphical tree structure, where each node is represented as a filled circle. The numbers associated with the nodes are displayed inside the corresponding circles. The left and right child relationships between nodes are represented by lines connecting the parent node with its children. The BST Visualizer utilizes JFrame and AWT to render the BST as a graphical tree structure. The visual representation includes the following elements:
 
-**JFrame:** The main application window for the BST Visualizer.
-**JPanel:** A panel where the BST is drawn using the AWT Graphics class.
-**DrawingPanel:** An inner class extending JPanel that handles the drawing of the BST.
-**Graphics:** The AWT Graphics class is used to draw the nodes and connections of the BST.
+- **JFrame:** The main application window for the BST Visualizer.<br>
+- **JPanel:** A panel where the BST is drawn using the AWT Graphics class.<br>
+- **DrawingPanel:** An inner class extending JPanel that handles the drawing of the BST.<br>
+- **Graphics:** The AWT Graphics class is used to draw the nodes and connections of the BST.<br>
 
 ## Notes
 
