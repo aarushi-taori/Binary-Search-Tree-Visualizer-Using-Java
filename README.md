@@ -1,1 +1,1 @@
-# Binary-Search_Tree-Visualizer-Using-Java
+# Binary-Search-Tree-Visualizer-Using-Java
