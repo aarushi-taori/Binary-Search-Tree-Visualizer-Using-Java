@@ -1,5 +1,3 @@
-# Binary-Search-Tree-Visualizer-Using-Java
-
 # Binary Search Tree Visualizer
 
 This is a Java program that provides a visual representation of a Binary Search Tree (BST). The program utilizes the Java Swing library and JFrame to create a graphical user interface for the BST visualization.
@@ -34,7 +32,7 @@ Upon running the program, the BST Visualizer window will appear, allowing you to
 
 The BST Visualizer renders the BST as a graphical tree structure, where each node is represented as a filled circle. The numbers associated with the nodes are displayed inside the corresponding circles. The left and right child relationships between nodes are represented by lines connecting the parent node with its children.
 
-**Notes**
+## Notes
 
 - The program provides a basic graphical interface for visualizing the operations on a BST. It is designed to facilitate understanding and learning rather than focusing on performance or advanced functionality.
 - The graphical representation of the BST is limited to a two-dimensional layout and may not accurately depict the actual structure of a larger or more complex tree.
